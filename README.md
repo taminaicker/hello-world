@@ -5,10 +5,8 @@ My name is Tamiel *(Tami)* and I am currently doing a post-graduate data science
 
 After graduating, and spending most days at my computer, I started relearning SQL - that I originally learned in high school and I became really interested in what I could do those skills. That's how I ended up transistioning into data science and learning:
 
-*- R,* 
-*- Python,*
-*-  Machine Learning, and a ton more!*
+*R,Python,Machine Learning,and a ton more!*
 
 I think this is enough info for now :P. 
 
-==Bye!== 
+Bye! 
